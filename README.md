@@ -1,0 +1,1 @@
+This module will serve as an introduction to machine learning as applied to AlphaFold – a structure prediction program. The Genome Analysis class of Summer 1 2025 will help to build the module.
