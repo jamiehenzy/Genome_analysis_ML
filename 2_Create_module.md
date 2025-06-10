@@ -1,7 +1,8 @@
-Each student has been assigned a module. Create a handout of basic information on your topic that is appropriate for introducing undergraduate students to the material. Imagine the type of information, figures, or resources that you would find most helpful yourself.
-Submit the material as a pdf in the form of either a handout or slides.
+Each student has been assigned a module (see bottom of page). Create a handout of basic information on your topic that is appropriate for introducing undergraduate students to the material. Imagine the type of information, figures, or resources that you would find most helpful yourself. Length should be a minimum of one page of information, maximum three. 
 
-Have fun with it! On your resumé you'll be able to say you helped put together an instructional module on AlphaFold and ML.
+Submit the material as a pdf in the form of either a handout or slides. 
+
+Have fun with it! On your resumé you'll be able to say you helped put together an instructional module on AlphaFold and ML. The modules will aid in introducing students of the new Computational Project Lab to AlphaFold, so thanks!
 
 1.	Introduction to Protein Structure and Folding
 + Review of protein structure levels (primary–quaternary)
@@ -34,3 +35,21 @@ Have fun with it! On your resumé you'll be able to say you helped put together 
 + What’s next? (AlphaFold 3, AlphaFold-Multimer, etc.)
 + Emerging tools and directions in AI-driven biology
 + Long-term implications for biology, medicine, and education
+
+Module assignments:
+
+1. Kostas
+
+2. Abby
+
+3. Maia
+
+4. Bella
+
+5. Peter
+
+6. Alex
+
+7. Nick
+
+8. Cristian
